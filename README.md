@@ -10,6 +10,6 @@
 
 <h3>My Social Media :</h3>
 <p>
-<a href="https://www.youtube.com/@MiracleMP"><img align="center" src="../icon/youtube-svgrepo-com.svg" alt="MiracleMP" height="30" width="40" /></a>
-<a href="https://instagram.com/prim.m.t"><img align="center" src="../icon/instagram-svgrepo-com.svg" alt="prim.m.t" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@MiracleMP"><img align="center" src="[../icon/youtube-svgrepo-com.svg" alt="MiracleMP](https://github.com/MiracleGlow/asset/blob/master/icon/youtube-svgrepo-com.svg)" height="32" width="32" /></a>
+<a href="https://instagram.com/prim.m.t"><img align="center" src="https://github.com/MiracleGlow/asset/blob/master/icon/instagram-svgrepo-com.svg" alt="prim.m.t" height="32" width="32" /></a>
 </p>
