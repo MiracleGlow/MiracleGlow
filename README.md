@@ -11,5 +11,5 @@
 <h3>My Social Media :</h3>
 <p>
 <a href="https://www.youtube.com/@MiracleMP"><img align="center" src="https://i.pinimg.com/736x/98/ae/15/98ae159aa1bb8b4243fbe1f9e27d1b9f.jpg" alt="MiracleMP" height="30" width="40" /></a>
-<a href="https://instagram.com/prim.m.t"><img align="center" src="https://drive.usercontent.google.com/u/0/uc?id=1vSOm7Si-uj0z4T0GUrvIumQ0BeUZq28X&export=download" alt="prim.m.t" height="30" width="40" /></a>
+<a href="https://instagram.com/prim.m.t"><img align="center" src="https://raw.githubusercontent.com/MiracleGlow/asset/510cb98c8bcdd22a5b78adc44f05903103bb74c1/icon/instagram-svgrepo-com.svg?token=BBMXRJPPK77MRSR6PYEULFDF4ONCG" alt="prim.m.t" height="30" width="40" /></a>
 </p>
