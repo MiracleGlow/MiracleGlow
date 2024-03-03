@@ -13,3 +13,11 @@
 <a href="https://instagram.com/prim.m.t"><img align="center" src="https://github.com/MiracleGlow/asset/blob/master/icon/instagram-svgrepo-com.svg" alt="prim.m.t" height="32" width="32"></a>
 <a href="https://www.youtube.com/@MiracleMP"><img align="center" src="https://github.com/MiracleGlow/asset/blob/master/icon/youtube-svgrepo-com.svg" height="32" width="32"></a>
 </p>
+
+<p>
+  "Coding is not easy, it's full of mysteries, but believe that one day, you will uncover everything. enjoy the process, and keep trying!"
+</p>
+
+<p>
+  3/3/2024
+</p>
