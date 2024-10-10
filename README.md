@@ -30,7 +30,7 @@
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" />
   <img src="https://img.icons8.com/color/48/000000/blender.png" alt="Blender" />
   <img src="https://img.icons8.com/color/48/000000/coreldraw.png" alt="CorelDraw" />
-  <img src="https://img.icons8.com/color/48/000000/capcut.png" alt="Capcut" />
+  <img src="https://img.icons8.com/color/48/000000/capcut.png" alt="Unity" />
   <img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" />
 </p>
 
