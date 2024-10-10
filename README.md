@@ -20,5 +20,20 @@
 </p>
 
 <p>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" />
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" />
+  <img src="https://img.icons8.com/color/48/000000/blender.png" alt="Blender" />
+  <img src="https://img.icons8.com/color/48/000000/coreldraw.png" alt="CorelDraw" />
+  <img src="https://img.icons8.com/color/48/000000/capcut.png" alt="Capcut" />
+  <img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" />
+</p>
+
+<p>
   3/3/2024
 </p>
