@@ -1,4 +1,4 @@
-<h1>Hello everynyann, Prima here!</h1>
+<h1>Hello Everyone, Prima here!</h1>
 <h3>I don't know what developer I am, just having fun!</h3>
 
 
