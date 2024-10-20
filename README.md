@@ -19,6 +19,7 @@
   "Coding is not easy, it's full of mysteries, but believe that one day, you will uncover everything. enjoy the process, and keep trying!"
 </p>
 
+<h1>What I Learned</h1>
 <p>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
@@ -33,6 +34,9 @@
   <img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" />
 </p>
 
+<p>
+  "Coding is not easy, it's full of mysteries, but believe that one day, you will uncover everything. enjoy the process, and keep trying!"
+</p>
 <p>
   3/3/2024
 </p>
