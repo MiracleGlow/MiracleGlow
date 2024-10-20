@@ -15,7 +15,7 @@
 <a href="https://osu.ppy.sh/users/34598328"><img align="center" src="https://github.com/MiracleGlow/asset/blob/master/icon/osu-svgrepo-com.svg" height="32" width="32"></a>
 </p>
 
-<h3>What I Learned</h3>
+<h3>What I Learned :</h3>
 <p>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
