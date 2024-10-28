@@ -1,5 +1,5 @@
 <h1>Hello Everyone, Prima here!</h1>
-<h3>I don't know what developer I am, just having fun!</h3>
+<h3>I am FrontEnd Developer</h3>
 
 
 - 🔭 I’m currently studying at SMK BATIK PERBAIK PURWOREJO
