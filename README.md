@@ -25,6 +25,7 @@
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" />
+  <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" />
   <img src="https://img.icons8.com/color/48/000000/coreldraw.png" alt="CorelDraw" />
   <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" />
   <img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" />
