@@ -28,6 +28,7 @@
   <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" />
   <img src="https://img.icons8.com/color/48/000000/coreldraw.png" alt="CorelDraw" />
   <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" />
+  <img src="https://img.icons8.com/color/48/000000/blender.png" alt="Blender" />
   <img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" />
 </p>
 
