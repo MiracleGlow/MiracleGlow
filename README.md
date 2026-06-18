@@ -2,7 +2,6 @@
 <h3>I am FrontEnd Developer</h3>
 
 
-- 🔭 I’m currently studying at SMK BATIK PERBAIK PURWOREJO
 - 🌱 I’m currently learning : python, c++, blender
 - 🤔 I’m looking for help with drawing and 3d modelling
 - 💬 Ask me about : html, css
